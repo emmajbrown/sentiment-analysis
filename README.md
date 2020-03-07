@@ -1,2 +1,2 @@
-# word-embeddings
-[NLP HW1]: In this homework, we will try to approximate a Skip-gram word embedding via positive pointwise mutual information (PPMI) and truncated singular value decomposition (SVD).
+# sentiment-analysis
+[NLP HW1]: In this homework, you will write code that generates features for the positive/negative sentiment classification of movie reviews.
